@@ -11,7 +11,7 @@ ___
 In my spare time, I enjoy deepening my understanding of problem-solving strategies. That's why you can find my profiles on various platforms for solving coding challenges.
 Some of them are:  
 
-<img src="https://www.codewars.com/users/AtoZ/badges/large" />  
+[<img src="https://www.codewars.com/users/AtoZ/badges/large" />](https://www.codewars.com/users/AtoZ)  
 
 ### My tools & technologies 🔧
 <img align="left" alt="Java" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/><img align="left" alt="Kotlin" width="60px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/><img align="left" alt="Android" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/><img align="left" alt="SQL" width="60px" src="https://user-images.githubusercontent.com/86869773/147871217-064ac51e-921b-4079-b01b-a9e076b2c3df.png"/>
